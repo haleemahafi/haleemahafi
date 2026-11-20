@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! Feel free to explore the academic projects I've worked on.
 
 <!--
 **haleemahafi/haleemahafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
